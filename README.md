@@ -1,2 +1,4 @@
 # smirti-demo
-This is my first GIT repository "Author smirti thapa"
+This is my first GIT repository
+<br>
+"Author smirti thapa"
